@@ -1,1 +1,29 @@
+Student Spend Analysis Dashboard
 
+Overview
+This dashboard offers insights into student spending habits across various store locations and settings. 
+It provides a breakdown of purchases by city, store type, and age group, along with a focus on different product categories such as Outdoor Sport Kits and Video Games.
+
+Key Highlights
+Total Purchases: $642,084.01
+Top Purchasing Location: Seattle with $83,749.20 (31.45%)
+Top Store Setting by Purchases: Suburb with 266.29K
+Top Age Group Spending: Age 8 with $5,198.76
+
+Product Comparison: A scatter plot comparing purchases of Outdoor Sport Kits and Video Games across age groups shows diverse spending behaviors.
+Breakdown by Store Location and Setting
+Suburban Stores: $266.29K in purchases
+Rural Stores: $96.65K in purchases
+Urban Stores: $71.76K in purchases
+
+Store Location Insights:
+Seattle: 31.45% of total purchases ($83,749.20)
+Los Angeles: 30.95% of total purchases ($82,419.92)
+New York: 17.38% of total purchases ($46,284.58)
+Boston: 20.00% of total purchases ($53,835.98)
+
+This dashboard analyzes how students in different locations and store settings spend on items such as Outdoor Sport Kits and Video Games. 
+The data suggests that Seattle is the top city for student spending, followed closely by Los Angeles. 
+Furthermore, the Suburban setting attracts the highest purchases, showing a potential trend
+that suburban areas may have a larger student population or better store accessibility.
+The scatter plot offers valuable insights into age-wise spending, with the highest purchases on video games concentrated among students aged 8, 10, and 14.
