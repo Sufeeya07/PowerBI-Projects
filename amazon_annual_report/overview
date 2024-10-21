@@ -1,1 +1,42 @@
+📈 Amazon Annual Sales Report Dashboard
+📊 Overview
+This Power BI dashboard provides an annual sales report for Amazon, summarizing key sales metrics such as total sales, units sold, and performance by different categories, cities, and states. The dashboard also includes sales statuses and trends over time, helping to visualize overall sales performance.
 
+🔍Features
+Category Filter: Allows the user to filter data by product categories such as baby carriers, bag organizers, boys belts, and more.
+Status Filter: A filter for sales statuses such as shipped, pending, canceled, and others.
+Sales by City: A bar chart that breaks down the number of sales in different cities, with Bengaluru, Hyderabad, and Mumbai being top cities.
+Sales by State: A bar chart showing total sales by state, highlighting Maharashtra, Karnataka, and Tamil Nadu.
+Sales Unit Trend: A line chart tracking the number of units sold over time, displaying sales trends month-by-month.
+
+📊 Key Metrics
+Overall Sales: Total sales across all products.
+Sales Units: Total number of units sold in the given time period.
+Sales by City/State: Breakdown of sales across different geographical regions.
+
+📝How to Use
+Filter by Category: On the left side, select specific product categories to focus on sales performance for individual items.
+Filter by Status: Use the status filter to see sales data for different shipping statuses like "Shipped," "Pending," "Cancelled," and others.
+Analyze by City/State: View which cities and states are driving the most sales.
+Track Sales Over Time: Use the trend line chart to understand how sales have changed over the months, identifying patterns or dips in sales performance.
+
+❓ Questions to Consider for Creating the Dashboard
+What is the overall sales performance for the year?
+
+Key metrics such as total revenue or total units sold are displayed.
+Which categories are performing best in terms of sales?
+
+By analyzing sales by different product categories.
+How do sales differ by geographic region?
+
+What are the top-performing cities and states in terms of sales volume?
+How does the status of orders (shipped, pending, canceled) affect sales numbers?
+
+Break down sales by different order statuses to identify any bottlenecks in the shipping process.
+What are the sales trends over time?
+
+Are there specific months or periods where sales increase or decrease?
+What are the most popular products or categories?
+
+Which categories contribute most to the overall sales?
+By considering these questions, you can tailor the dashboard to provide more actionable insights into sales performance.
