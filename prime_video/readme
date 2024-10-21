@@ -1,1 +1,21 @@
+🎥 Prime Video Data Report
+This project showcases a Power BI dashboard analyzing Prime Video's content. Here’s a quick overview:
+
+📊 Key Stats:
+Total Titles: 9,655
+Total Directors: 5,771
+Genres Covered: 519
+Time Period: 1920 - 2021
+📈 Content Breakdown:
+Movies vs. TV Shows: 19% Movies, 81% TV Shows
+Popular Ratings: Most shows are rated 13+ and 16+
+Top Genres: Drama (986 titles), Comedy (536 titles)
+🌍 Country Insights:
+Content spans across various countries, highlighting diversity in Prime Video's catalog.
+
+📅 Release Trends:
+A surge in new content occurred post-2000, with major growth in recent years.
+This Power BI report visualizes Prime Video’s content trends, making it easier to explore by genre, rating, and release year.
+You can customize this based on your needs!
+
 
